@@ -1,1 +1,2 @@
-# LearnAboutCreators
+# LearnAbouttheCreators
+Show casing beautiful styling
